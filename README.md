@@ -7,10 +7,10 @@ The Tic-Tac-Toe project is a classic game implemented to run human vs. AI game. 
 
 ### Features
 
-    ## Game Modes:
+## Game Modes:
 
-       Human vs. AI: A single player competes against an AI opponent. The AI uses the Minimax algorithm with Alpha-Beta Pruning to make optimal moves, ensuring it is always a challenging opponent.
-      Game Board:
+Human vs. AI: A single player competes against an AI opponent. The AI uses the Minimax algorithm with Alpha-Beta Pruning to make optimal moves, ensuring it is always a challenging opponent.
+Game Board:
 
 A 6 X 6 grid is used to represent the Tic-Tac-Toe board.
 Each cell can be clicked to place a mark, with immediate visual feedback to show the current state of the game.
