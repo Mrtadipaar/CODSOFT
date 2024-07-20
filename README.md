@@ -1,7 +1,8 @@
 # Tic-Tac-Toe Project Description
 
 
-Overview
+### Overview:
+
 The Tic-Tac-Toe project is a classic game implemented to run human vs. AI game. The AI uses an optimized algorithm to ensure that it is unbeatable, leveraging Minimax with Alpha-Beta Pruning. The game features a user-friendly graphical interface that visually represents the game board, providing a clear and interactive experience for players.
 
 Features
